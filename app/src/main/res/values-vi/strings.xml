@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_out_menu">Đăng xuất</string>
+    <string name="settings_menu">Cài đặt</string>
+    <string name="my_id_menu">ID của tôi</string>
+    <string name="next_menu">Tiếp theo</string>
+    <string name="add_friend_menu">Kết bạn</string>
+
+    <string name="welcome_message">Chào mừng đến với How About There!</string>
+    <string name="cancel_sign_in_message">Hủy đăng nhập</string>
+
+    <string name="choose_friends">Chọn những người bạn muốn mời</string>
+    <string name="persons">Người</string>
+    <string name="going">Tham gia</string>
+    <string name="busy">Bận</string>
+    <string name="your_id">Mã ID của bạn</string>
+    <string name="are_you_going">Bạn có muốn tham gia không?</string>
+    <string name="yes">Có</string>
+    <string name="no">Không</string>
+    <string name="quit">Thoát</string>
+    <string name="cancel">Hủy bỏ</string>
+    <string name="OK">OK</string>
+    <string name="try_again">Thử lại</string>
+    <string name="enter_friend_id">Nhập mã ID của người bạn</string>
+    <string name="check_network_connection">Không thể kết nối đến server. Xin kiểm tra lại kết nối mạng.</string>
+    <string name="set_your_time">Chọn thời điểm</string>
+    <string name="morning">Sáng</string>
+    <string name="afternoon">Trưa</string>
+    <string name="evening">Chiều</string>
+    <string name="night">Tối</string>
+
+    <string name="error_no_connection">Lỗi: Không có mạng.</string>
+    <string name="error_user_not_exist">Lỗi: Mã ID đã nhập không tồn tại.</string>
+</resources>

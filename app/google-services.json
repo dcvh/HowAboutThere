@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "829651522162",
+    "firebase_url": "https://how-about-there-14e3c.firebaseio.com",
+    "project_id": "how-about-there-14e3c",
+    "storage_bucket": "how-about-there-14e3c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829651522162:android:3270266911ac5dc4",
+        "android_client_info": {
+          "package_name": "tcd.android.com.howaboutthere"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829651522162-mjrpp7c9equ1f979vkps8jlqt8gmu9r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiUS6uJoZiBILeJJbzLUQBl6kXZhmaUPQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

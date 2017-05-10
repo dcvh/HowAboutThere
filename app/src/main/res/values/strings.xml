@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name" translatable="false">How About There?</string>
+
+    <string name="sign_out_menu">Sign out</string>
+    <string name="settings_menu">Settings</string>
+    <string name="my_id_menu">My ID</string>
+    <string name="next_menu">Next</string>
+    <string name="add_friend_menu">Add friend</string>
+
+    <string name="welcome_message">You are now signed in. Welcome to How About There!</string>
+    <string name="cancel_sign_in_message">Sign in canceled</string>
+
+    <string name="choose_friends">Choose your friends</string>
+    <string name="persons">Persons</string>
+    <string name="going">Going</string>
+    <string name="busy">Busy</string>
+    <string name="your_id">Your ID</string>
+    <string name="are_you_going">Are you going?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="quit">Quit</string>
+    <string name="cancel">Cancel</string>
+    <string name="OK">OK</string>
+    <string name="try_again">Try again</string>
+    <string name="enter_friend_id">Please enter your friend ID</string>
+    <string name="check_network_connection">Cannot connect to server. An internet connection is required.</string>
+    <string name="set_your_time">Set your time</string>
+    <string name="morning">Morning</string>
+    <string name="afternoon">Afternoon</string>
+    <string name="evening">Evening</string>
+    <string name="night">Night</string>
+
+    <string name="error_no_connection">Error: No connection.</string>
+    <string name="error_user_not_exist">Error: The user ID you entered does not exist.</string>
+
+    <string name="my_api_key" translatable="false">AIzaSyDiUS6uJoZiBILeJJbzLUQBl6kXZhmaUPQ</string>
+    <string name="facebook_application_id" translatable="false">1518717784814408</string>
+    <string name="facebook_login_protocol_scheme" translatable="false">fb1518717784814408</string>
+</resources>
