@@ -1,5 +1,5 @@
 # HowAboutThere
-A small project in my class :)
+A small project in my class :) built it in 3 days
 
 ## Description
 An Android application that allows you to invite your friends to hang out with you by sending them the places' locations and vice versa
